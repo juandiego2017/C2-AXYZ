@@ -1,0 +1,56 @@
+
+#titulo{
+    
+    font-size: 50px;
+    color: #ffcccc;
+    background-color: #A28E7E;
+     text-align: center;
+    font-weight: bold;
+}
+#tituloFilo{
+    
+     font-size: 25px;
+    color: black;
+    background-color: white;
+     text-align: center;
+    font-weight: bold;
+}
+#titulo0{
+    font-size: 20px;
+    color: #800C0C;
+    
+    text-align: right;
+    font-weight: bold;
+    
+    
+    
+}
+#subtitulo{
+    
+    font-size: 20px;
+    color: white;
+    
+     text-align: center;
+    font-weight: bold;
+}
+.texto{
+    text-align: justify;
+    
+    font-size: 19px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.texto2{
+font-weight: bold;
+}
+#tabla{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.texto3{
+    font-weight: bold;
+margin-left: 60px;
+    margin-right: 60px;
+}
+
